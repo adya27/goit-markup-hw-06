@@ -1,2 +1,1 @@
-# goit-markup-hw-06
-HW6
+https://adya27.github.io/goit-markup-hw-06/
